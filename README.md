@@ -1,4 +1,4 @@
-# neoComp 🚀
+# NeoComp 🚀
 
 <div align="center">
 
@@ -637,7 +637,6 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for deta
 API documentation is available at:
 
 - **Development**: http://localhost:3001/api/docs
-- **Production**: https://api.neocomp.com/api/docs
 
 ### Key Endpoints
 
@@ -669,14 +668,14 @@ GET    /api/leaderboard/problem/:id
 
 ### Phase 1: Foundation (Weeks 1-4) ✅
 
-- [x] Basic authentication
-- [x] Problem CRUD
-- [x] Code submission with Docker
-- [x] Simple verdict system
+- [ ] Basic authentication
+- [ ] Problem CRUD
+- [ ] Code submission with Docker
+- [ ] Simple verdict system
 
 ### Phase 2: Production Ready (Weeks 5-8) 🚧
 
-- [x] Message queue integration
+- [ ] Message queue integration
 - [ ] nsjail sandboxing
 - [ ] WebSocket real-time updates
 - [ ] Caching layer
@@ -706,7 +705,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - [@yourusername](https://github.com/yourusername)
+- **Kaustav Bhalla** - [@kaustavbhalla](https://github.com/kaustavbhalla)
 
 ---
 
@@ -718,19 +717,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📧 Contact
-
-- **Email**: your.email@example.com
-- **Discord**: [Join our server](https://discord.gg/neocomp)
-- **Twitter**: [@neocomp](https://twitter.com/neocomp)
-
----
-
 ## 🌟 Star History
 
 If you find this project helpful, please consider giving it a star ⭐
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/neocomp&type=Date)](https://star-history.com/#yourusername/neocomp&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=kaustavbhalla/neo-comp&type=Date)](https://star-history.com/#kaustavbhalla/neo-comp&Date)
 
 ---
 
